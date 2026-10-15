@@ -1,6 +1,6 @@
 Many debates have focused on consciousness—specifically, whether it exists at all and whether it is a metaphysical principle or an emergent behavior. To remain as functional and rigorous as possible, I adopt an empiricist view of consciousness. Rather than assuming consciousness is inherently metaphysical or emergent, I focus on understanding and defining its operations and behaviors. However, this approach faces several limitations.
 
-#The Difficulty of Definition
+# The Difficulty of Definition
 Defining consciousness is difficult; we cannot define it directly because it is an experience that is felt rather than defined. To overcome this, we must define it through parameters, relations, and abstract determinations of our own experience.
 
 Parameters: We cannot make direct claims about experience itself within the model.
