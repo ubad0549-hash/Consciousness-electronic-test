@@ -4,10 +4,13 @@ These notes are learning materials, not claims that I have independently establi
 
 
 # What are the assumptions that neuroscience and biology are making when dealing with Consciousness?
+Neuroscience suggests that consciousness arises from biological, material processes.
+Biology is hierarchical because it uses taxonomic rankings, a referential base that determines structure.
+Taxonomic rank is a level in the hierarchical classification system used to categorize species, grouping organisms by shared characteristics and differences, often reflecting a conceptual order created by humans (ScienceDirect).
 
-
-
-
+#Note to self: Can this hierarchical structure be used to create the model? Is the hierarchical structure necessary, and does it justify itself?  Do the categories implicitly support themselves?
+ 
+ 
 # What is the brain specialization that allows it to process information and sensitize responses?
 Specific anatomical regions, cortical columns, and specialized neural circuits are dedicated to processing distinct categories of sensory, cognitive, or motor inputs (Friston, 1994).
 
@@ -46,6 +49,6 @@ Ginsburg, S., & Jablonka, E. (2019). The evolution of the sensitive soul: Learni
 
 Graziano, M. S. A. (2013). Consciousness and the social brain. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199928644.001.0001
 
-
+"Taxonomic Rank." ScienceDirect Topics, Elsevier, www.sciencedirect.com/topics/nursing-and-health-professions/taxonomic-rank. Accessed 22 Oct. 2026.
 
 
