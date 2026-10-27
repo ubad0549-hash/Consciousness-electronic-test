@@ -35,7 +35,6 @@ Predictive Modeling and Attention Control(Graziano, M. S., 2013): argues that ph
 
 # Can we truly Define Consciousness in terms of objective experience?
 
-
 # What are the major models of Consciousness and neuroscience, and what do they claim?
 
 
