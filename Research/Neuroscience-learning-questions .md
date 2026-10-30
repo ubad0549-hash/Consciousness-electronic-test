@@ -13,12 +13,12 @@ Taxonomic rank is a level in the hierarchical classification system used to cate
  
  
 # What is the brain specialization that allows it to process information and sensitize responses?
-Specific anatomical regions, cortical columns, and specialized neural circuits are dedicated to processing distinct categories of sensory, cognitive, or motor inputs (Friston, 1994).
+Specific anatomical regions, cortical columns, and specialized neural circuits process distinct categories of sensory, cognitive, or motor inputs (Friston, 1994).
 
 Functional Integration: Rather than operating in isolated silos, these specialized modules communicate via distributed functional networks and effective connectivity (Friston, 1994).
 
 Specialization: The brain relies on specialized regions, neurons, neural structures, and receptors dedicated to different processes.
-Integration: The brain's ability to share information from one neural space to another.
+Integration: The brain's ability to share information across neural spaces.
 Specialization and integration allow the brain to process information and synthesize reactions.
 
 #Note to self: Can this process be implemented into a model? If so, how can these processes be simplified into the models? Are these processes responsible for consciousness, and in what ways?
@@ -37,9 +37,12 @@ Predictive Modeling and Attention Control(Graziano, M. S., 2013): argues that ph
 # Can we truly Define Consciousness in terms of objective experience?
 
 # What are the major models of Consciousness and neuroscience, and what do they claim?
+#There are images of the models and their proposed structures in the research file.
 
 Higher-order Theories(HoT) claim that Consciousness arises from higher-order functions meta-representing lower-order functions. 
 HOTs say that a perceptual representation of some content X – for instance, a red apple – is not sufficient for a conscious experience of X to arise. These kinds of representations are known as “first-order”(Mudrik, Liad, et al.,2025). This, in turn, entails that the first-order state is in some way monitored or meta-represented by a higher-order representation (Brown et al., 2019).
+
+
 
 # What do these models agree and disagree on?
 
