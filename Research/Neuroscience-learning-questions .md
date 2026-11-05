@@ -42,6 +42,7 @@ Predictive Modeling and Attention Control(Graziano, M. S., 2013): argues that ph
 Higher-order Theories(HoT) claim that Consciousness arises from higher-order functions meta-representing lower-order functions. 
 HOTs say that a perceptual representation of some content X – for instance, a red apple – is not sufficient for a conscious experience of X to arise. These kinds of representations are known as “first-order”(Mudrik, Liad, et al.,2025). This, in turn, entails that the first-order state is in some way monitored or meta-represented by a higher-order representation (Brown et al., 2019).
 
+Global workspace Theories(GWT) argues that Consciousness arises from a global Global neuronal space which integrates information of localypsectors of the brain.The theory stresses that information becomes conscious only when its mental representation receives top-down amplification and gets expanded into a global parietofrontal metastable state(Mudrik, Liad, et al.,2025). 
 
 
 # What do these models agree and disagree on?
